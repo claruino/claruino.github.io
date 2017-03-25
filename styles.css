@@ -1,8 +1,18 @@
 img {
-    width: 200px;
+    width: 400px;
 }
 
 body{
+    background-color: #00cc00;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Impact";
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0Y3vrLoBVfjBFRFgWiF_MNQc7KYrLvz1ghFvmysh70RkwJbX);
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
 }
